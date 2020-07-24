@@ -1,0 +1,52 @@
+body{
+    background-color: coral;
+    background-image: linear-gradient(red);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.Rathee{
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    color:white;
+    text-align: center;
+    background-image: linear-gradient(rgb(196, 69, 69),cyan) ;
+}
+h2{
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    color: green;
+    text-align: center;
+    background-image: linear-gradient(red,white, blue);
+}
+.me{
+    color: #fd79a8;
+    background-color: #ffffff;
+}
+
+.first{
+    font-size: 32px;
+    font-family: cursive,Arial, Helvetica, sans-serif;
+}
+.role{
+    font-size: 32px;
+    font-family: Cursive,Arial,Helvetica,Sans-serif;
+}
+.experience{
+    font-size: 20px;
+}
+.th{
+font-size: 25px;
+background-image: linear-gradient(rgb(98, 98, 209),rgb(230, 199, 199));
+text-align: center;
+}
+.places{
+    font-size: 20px;
+}
+.address{
+    text-align: center;
+    font-size: 20px;
+}
